@@ -1,0 +1,7 @@
+{
+  "name": "Hard Times Toolkit",
+  "description": "An application to help people navigate a bad economy with two tools: an AI-powered Side Hustle Coach to generate earning ideas, and a community-driven Price Watch to find the best deals on essentials.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
